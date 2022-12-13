@@ -20,7 +20,7 @@ Q1) Create a sales table with the following fields:
 * Number of times a customer purchases on an average in a month
 * List of all customers who have purchased items worth more than Rs. X (here X should be a variable)
 
-#Forecast and Report
+# Forecast and Report
 
 Q2) What is the expected forecast for Dec closure? Feel free to use time series or any predictive technique to determine the same. You may take the help of R as well. In case legacy data is needed, please feel free to make assumptions.
 
